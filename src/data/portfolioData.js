@@ -85,7 +85,7 @@ export const projects = [
     techStack:
       "Python, FastAPI, React, Tailwind CSS, AI Systems Development, Vector Databases, API Integration",
     github: "https://github.com/buchqi/Ai_Powered_Apps_Turing_Titans.git",
-    demo: "[LIVE_DEMO_LINK]",
+    demo: "https://joyful-intuition-production-606c.up.railway.app/",
   },
   {
     image: driftlessImage,
