@@ -155,10 +155,7 @@ function HomePage() {
       </section>
 
       <section id="contact" className="section-shell">
-        <SectionHeader kicker="Contact" title="Let us connect">
-          Replace the usernames once to generate recruiter-facing profile links
-          automatically.
-        </SectionHeader>
+        <SectionHeader kicker="Contact" title="Let us connect"></SectionHeader>
         <div className="mt-10 grid gap-8 lg:grid-cols-[0.8fr_1.2fr]">
           <div className="panel p-6">
             <div className="space-y-5 text-sm text-graphite">
